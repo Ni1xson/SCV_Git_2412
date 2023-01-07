@@ -167,4 +167,9 @@ git checkout -b[branchnames]
 ### branches in git are really convenient, they help not to spoil the project and go back if necessary 
 :)
 
-third lesson
+#### <span style="color:green">third lesson
+>>## <span style="color:#59afe1"> **17.clone repository**
+### lones a repository from github to your local PC command:
+```
+git clone  [link to repository] 
+```
