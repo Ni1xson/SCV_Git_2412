@@ -168,13 +168,19 @@ git checkout -b[branchnames]
 :)
 
 #### <span style="color:green">third lesson
->>## <span style="color:#59afe1"> **17.clone repository**
+>>## <span style="color:#59afe1"> **17.Clone repository**
 ### lones a repository from github to your local PC command:
 ```
 git clone  [link to repository] 
 ```
->## <span style="color:#59afe1"> **18.push to github**
+>## <span style="color:#59afe1"> **18.Push to github**
 ### To send from your local PC to github, use the command:
 ```
 git push 
+```
+
+>## <span style="color:#59afe1"> **19.Getting from github**
+### to get the current version from github, use the command: 
+```
+git pull
 ```
