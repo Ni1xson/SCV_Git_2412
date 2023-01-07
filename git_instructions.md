@@ -173,3 +173,8 @@ git checkout -b[branchnames]
 ```
 git clone  [link to repository] 
 ```
+>## <span style="color:#59afe1"> **18.push to github**
+### To send from your local PC to github, use the command:
+```
+git push 
+```
